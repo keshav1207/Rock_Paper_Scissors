@@ -11,7 +11,7 @@ while True:
         print('Enter a valid input')
         continue
 
-    # Make computer choose
+    # Make the computer choose
     choices = ('rock', 'paper', 'scissors')
     computer_choice = random.choice(choices)
     print(computer_choice)
